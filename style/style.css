@@ -1,0 +1,25 @@
+.home-carousel .carousel-inner img{
+    height: 100vh;
+    object-fit: cover;
+
+}
+.carousel-caption {
+    top: 30px;
+    background: rgba(0, 0, 0, 0.284);
+    max-width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    height: 200px;
+}
+
+.carousel-caption h5 {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.card img{
+    max-width: 500px;
+}
+.about-image img{
+    max-width: 500px;
+}
